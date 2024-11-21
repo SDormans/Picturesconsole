@@ -1,7 +1,7 @@
 <h1>Pictures console app</h1>
 
 <h2>Description</h2>
-A handy concole app where i can select multiple pictures and replace them in a new drectory and rename them.
+A handy concole app where i can select multiple pictures and replace them in a new directory and rename them.
 <br />
 
 
